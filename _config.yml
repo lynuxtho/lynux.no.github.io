@@ -1,6 +1,4 @@
-theme: minima
-title: My GitHub Pages Site
-description: A description of my site
+theme: jekyll-theme-minimal
 
 
 
