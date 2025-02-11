@@ -1,1 +1,1 @@
-# lynuxtho.github.io
+# lynux.github.io
