@@ -1,9 +1,9 @@
 body {
-    color: #00c04b; /* Bright white text */
+    color: #008631; /* Bright white text */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #e0e0e0; /* Slightly dimmer white for headings */
+    color: #00ab41; /* Slightly dimmer white for headings */
 }
 
 p, a, span {
